@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Shuva0007
+- 👋 Hi, I’m Shuvajit Purkait- A final year student of Computer Sceince and Engineering
+- 😀This is my first project(Univerducate) on basic front-end development using HTML and CSS.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS and other required frameworks and tools for web development
 
